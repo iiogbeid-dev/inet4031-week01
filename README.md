@@ -9,18 +9,18 @@ observability, security hardening, and backup/recovery.
 
 ## Team
 
-**Team Name:** [To be filled]
+**Team Name:** Tech Titans
 
-**Team Number:** [Enter number provided by professor]
+**Team Number:** 5
 
 **Roster:**
 
 | Name |
-|------|
-| |
-| |
-| |
-| |
+Obehi: Scrum Master
+Ajibola: System Admin 
+Megan: QA
+Sadiq: Developer
+Nur: Developer
 
 See `team-charter.md` for role assignments and the 7-sprint rotation schedule.
 
